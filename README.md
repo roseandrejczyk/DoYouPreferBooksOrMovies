@@ -49,6 +49,7 @@
       until I honestly stopped all together. Movies are just less effort and I
       like to see the VFX. You can sit back and watch; with friends, family, or
       even with a date.</footer>
+  
     <style type="text/css">
       h1{
         font-style:"Vernanda";
@@ -57,19 +58,23 @@
         background-color:#b83b5e;
         border-style: inset;
       }
+      
       footer{
         background-color:#f08a5d;
         border-style: inset;
       }
+      
       p {
         background-color:#b83b5e;
         font-style:"Courier New";
         font-size: "15px";
         border-style: outset;
       }
+      
       img {
         border-style: outset;
-        {
+        }
     </style>
+    
   </body>
 </html>
