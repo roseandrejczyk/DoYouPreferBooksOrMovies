@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <title>What Do You Prefer Books or Movies</title>
+   
   </head>
   <body style="   background-color:#6a2c70" ;="">
     <h1> Do You Prefer Books or Movies </h1>
@@ -67,7 +67,6 @@
         font-size: "15px";
         border-style: outset;
       }
-      
       img {
         border-style: outset;
         {
